@@ -30,4 +30,4 @@ research-level AI and ISRO.
 >research-level roles and ISRO-oriented projects.
 
 ## Quote:-
-> "Consistency beats intensity." 
+> "Consistency beats intensity 🔥." 
