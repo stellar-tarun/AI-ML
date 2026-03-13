@@ -1,0 +1,8 @@
+2026-03-11 17:49:49-ArithmeticApp-DEBUG-Adding 5+3=8
+2026-03-11 17:49:49-ArithmeticApp-DEBUG-Subtraction 2-3=5
+2026-03-11 17:49:49-ArithmeticApp-DEBUG-Multiplication 5*5=10
+2026-03-11 17:49:49-ArithmeticApp-ERROR-Division by zero error
+2026-03-11 17:50:22-ArithmeticApp-DEBUG-Adding 5+3=8
+2026-03-11 17:50:22-ArithmeticApp-DEBUG-Subtraction 2-3=-1
+2026-03-11 17:50:22-ArithmeticApp-DEBUG-Multiplication 5*5=25
+2026-03-11 17:50:22-ArithmeticApp-ERROR-Division by zero error
